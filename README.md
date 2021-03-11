@@ -18,7 +18,7 @@ implementation available for purchase.
 
 ==Resources==
 
- * ![ESPFlash header definition](https://www.superhouse.tv/espflash)
- * ![SuperHouse 42: The ESPFlash programming header for ESP8266/ESP32](https://www.superhouse.tv/42-the-espflash-programming-header-for-esp8266-esp32/)
- * ![Vlog 66: Let's define a standard ESP8266/ESP32 programming header](https://www.superhouse.tv/vlog-66-lets-define-a-standard-esp8266-esp32-programming-header/)
- * ![ESPFlasher ESP8266/ESP32 programmer](https://www.superhouse.tv/espflasher)
+ * [ESPFlash header definition](https://www.superhouse.tv/espflash)
+ * [SuperHouse 42: The ESPFlash programming header for ESP8266/ESP32](https://www.superhouse.tv/42-the-espflash-programming-header-for-esp8266-esp32/)
+ * [Vlog 66: Let's define a standard ESP8266/ESP32 programming header](https://www.superhouse.tv/vlog-66-lets-define-a-standard-esp8266-esp32-programming-header/)
+ * [ESPFlasher ESP8266/ESP32 programmer](https://www.superhouse.tv/espflasher)
