@@ -16,7 +16,7 @@ own programmers, but to make it easy to incorporate into your project
 without having to make a programmer I've also made my "ESPFlasher"
 implementation available for purchase.
 
-==Resources==
+## Resources
 
  * [ESPFlash header definition](https://www.superhouse.tv/espflash)
  * [SuperHouse 42: The ESPFlash programming header for ESP8266/ESP32](https://www.superhouse.tv/42-the-espflash-programming-header-for-esp8266-esp32/)
